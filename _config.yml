@@ -1,7 +1,7 @@
 #site metatdata
 repository: Joshua-McGee/digitalcontent.github.io
-url: https://joshua-mcgee.github.io/digitalcontent.github.io/
-baseurl: https://joshua-mcgee.github.io/digitalcontent.github.io/
+url: https://joshua-mcgee.github.io
+baseurl: /digitalcontent.github.io
 # Theme settings
 doks:
     color_theme: purple
