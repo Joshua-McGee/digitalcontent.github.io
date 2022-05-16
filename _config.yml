@@ -1,7 +1,7 @@
 #site metatdata
 repository: Joshua-McGee/digitalcontent.github.io
 url: https://joshua-mcgee.github.io/digitalcontent.github.io/
-baseurl: Joshua-McGee/digitalcontent.github.io
+baseurl: Joshua-McGee/digitalcontent.github.io/
 # Theme settings
 doks:
     color_theme: purple
@@ -38,11 +38,11 @@ doks:
 
 # SASS settings
 sass:
-    sass_dir: ./doks-theme/_sass
+    sass_dir: ./digitalcontent.github.io/doks-theme/_sass
     style: :compressed
 
 # Jekyll settings
-layouts_dir: ./doks-theme/_layouts
-includes_dir: ./doks-theme/_includes
+layouts_dir: ./digitalcontent.github.io/doks-theme/_layouts
+includes_dir: ./digitalcontent.github.io/doks-theme/_includes
 exclude: [ 'README.md', 'CHANGELOG.md' ]
 permalink: /:title/
