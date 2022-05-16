@@ -4,7 +4,7 @@ url: https://joshua-mcgee.github.io/digitalcontent.github.io/
 
 # Theme settings
 doks:
-    baseurl: digitalcontent.github.io
+    baseurl: Joshua-McGee/digitalcontent.github.io
     color_theme: purple
     header:
         logo:
