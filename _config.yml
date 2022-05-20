@@ -1,22 +1,21 @@
-#site metatdata do not change!
+#site metatdata
 repository: Joshua-McGee/digitalcontent.github.io
-url: https://joshua-mcgee.github.io
-baseurl: /digitalcontent.github.io
-
+url: https://joshua-mcgee.github.io/digitalcontent.github.io/
 # Theme settings
 doks:
+    baseurl: /digitalcontent.github.io/_site
     color_theme: purple
     header:
         logo:
             text: Agenda
             image:
         nav:
-            - item_name: Item 1
-              item_url: '#'
-            - item_name: Item 2
-              item_url: '#'
-            - item_name: Item 3
-              item_url: '#'
+            - item_name: Overview
+              item_url: 'Overview'
+            - item_name: User Interface
+              item_url: 'UI'
+            - item_name: API
+              item_url: 'API'
     footer:
         content:
             logo:
