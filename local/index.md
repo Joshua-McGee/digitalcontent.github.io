@@ -27,13 +27,13 @@ grid_navigation:
     - title: Overview Documentation
       excerpt: Learn about how Agenda can help your company
       cta: Read more
-      url: 'Overview'
+      url: 'digitalcontent.github.io/Overview'
     - title: UI Documenation
       excerpt: Learn how to use the Agenda UI to create teams, schedule meetings, and more.
       cta: Read more
-      url: 'UI'
+      url: 'digitalcontent.github.io/UI'
     - title: API Documenation
       excerpt: Learn how to use the Agenda API to pull data, statistics, generate XML files, and more.
       cta: Read more
-      url: 'API'
+      url: 'digitalcontent.github.io/API'
 ---

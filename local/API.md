@@ -22,10 +22,10 @@ micro_nav: true
 page_nav:
     prev:
         content: Previous page
-        url: '../UI'
+        url: 'digitalcontent.github.io/UI'
     next:
         content: Next page
-        url: '../Overview'
+        url: 'digitalcontent.github.io/Overview'
 ---
 
 ## Write your markdown here ...

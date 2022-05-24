@@ -22,10 +22,10 @@ micro_nav: true
 page_nav:
     prev:
         content: Previous page
-        url: '../API'
+        url: 'digitalcontent.github.io/API'
     next:
         content: Next page
-        url: '../UI'
+        url: 'digitalcontent.github.io/UI'
 ---
 
 ## Agenda Application Overview
